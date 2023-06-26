@@ -1,0 +1,31 @@
+.footerBlock {
+    background-color: #8ee4ff;
+    padding: 50px 0;
+}
+
+.footerContainer {
+    border: solid 1px;
+    flex-direction: column;
+}
+
+.title {
+    background-color: #b4f5ff;
+}
+
+.strangeContainer {
+    display: flex;
+    border: 1px solid;
+    width: 280px;
+    justify-content: space-between;
+}
+
+.miniContainerFooter {
+    border: 1px solid;
+    height: 60px;
+    width: 60px;
+    background-color: #2eabc4;
+}
+
+.spanFooter {
+    margin-top: 20px;
+}

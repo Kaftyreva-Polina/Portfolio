@@ -1,0 +1,33 @@
+.contactsBlock {
+    padding: 50px 0;
+    background-color: #d8bfff;
+}
+
+.contactsContainer {
+    border: 1px solid;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.title {
+    background-color: #fcd6ff
+}
+
+.form {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    padding: 20px;
+}
+
+.inputForm {
+    margin-bottom: 5px;
+    padding: 3px 0;
+}
+
+.buttonContact {
+    margin-top: 30px;
+    padding: 10px 17px;
+}
+
